@@ -1,5 +1,5 @@
 # Airline-Data-Challenge
-The code analyzes the medium airport and large airport dataset; and passenger ticket data to find:
+The code analyzes medium airport and large airport dataset; and passenger ticket data to find:
 1. 10 busiest round trip routes
 2. 10 most profitable round trip routes (excluding upfront airplane costs)
 3. 5 round trips recommended for investment
